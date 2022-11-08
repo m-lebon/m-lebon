@@ -2,13 +2,15 @@
 
 - 🔭 I’m currently working on **too much!**
 
-- 🌱 I’m currently learning **more on Deep Learning**
+- 🌱 I’m currently learning **more on Deep learning and going through the Datacamp Machine Learning track**
 
 - 👨‍💻 I’m interested in **Healthcare and Biosciences**
 
+- 🤝 I’m looking for help with **building my GitHub profile and project portfolio**
+
 - 💬 Ask me about **anything related to the Microbiome**
 
-- 🦸🏻‍♀️ My biggest data inspirations are **Hans Rosling for statistics and visualisation, and Cassie Kozyrkov for ML and decision science, both phenomenal communicators**
+- 🦸🏻‍♀️ My biggest data inspirations are **[Hans Rosling](https://twitter.com/Gapminder) for statistics and visualisation, and [Cassie Kozyrkov](https://twitter.com/quaesita) for ML and decision science, both phenomenal communicators**
 
 - ⚡ Fun facts 
   - **My cat is called Anova (we call her Nova for short) and she's my world 😻** <br />
