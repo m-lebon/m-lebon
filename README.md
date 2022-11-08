@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @m-lebon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Mel Le Bon</h1>
 
-<!---
-m-lebon/m-lebon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **too much!**
+
+- 🌱 I’m currently learning **more on Deep Learning**
+
+- 👨‍💻 I’m interested in **Healthcare and Biosciences**
+
+- 💬 Ask me about **anything related to the Microbiome**
+
+- 🦸🏻‍♀️ My biggest data inspirations are **Hans Rosling for statistics and visualisation, and Cassie Kozyrkov for ML and decision science, both phenomenal communicators**
+
+- ⚡ Fun facts 
+  - **My cat is called Anova (we call her Nova for short) and she's my world 😻** <br />
+  - **I am addicted to buying and growing house plants 🪴** <br />
+  - **I am the biggest Taylor Swift fan** 🎤
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/melanielebon6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melanielebon6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/melanie-le-bon-6143a7a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melanie-le-bon-6143a7a7" height="30" width="40" /></a>
+</p>
