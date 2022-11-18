@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **more on Deep learning and going through the Datacamp Machine Learning track**
 
-- 👨‍💻 I’m interested in **Healthcare and Biosciences**
+- 👩🏻‍💻 I’m interested in **Healthcare and Biosciences**
 
 - 🤝 I’m looking for help with **building my GitHub profile and project portfolio**
 
