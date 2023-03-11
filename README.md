@@ -8,7 +8,7 @@
 
 - ⌨️ My favorite programming language is **R**
 
-- 🤝 I’m looking for help with **building my GitHub profile and project portfolio**
+- 🤝 I’m looking for help with **expanding my Github project portfolio**
 
 - 💬 Ask me about **anything related to the Microbiome**
 
