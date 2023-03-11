@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **too much!**
 
-- 🌱 I’m currently learning **more on Deep learning and going through the Datacamp Machine Learning track**
+- 🌱 I’m currently learning **Reinforcement Learning and Q-learning**
 
 - 👩🏻‍💻 I’m interested in **Healthcare and Biosciences**
 
