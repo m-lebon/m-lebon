@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mel Le Bon</h1>
 
-- 🔭 I’m currently working on **too much!**
+- 🔭 I’m currently working on **Reinforcement Learning**
 
 - 🌱 I’m currently learning **Reinforcement Learning and Q-learning**
 
