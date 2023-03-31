@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Reinforcement Learning**
 
-- 🌱 I’m currently learning **Q-learning**
+- 🌱 I’m currently learning **Deep Q-learning**
 
 - 👩🏻‍💻 I’m interested in **Healthcare and Biosciences**
 
