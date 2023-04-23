@@ -6,11 +6,11 @@
 
 - 👩🏻‍💻 I’m interested in **Healthcare and Biosciences**
 
-- ⌨️ My favorite programming language is **R**
+- 💻 My favorite programming language is **R**
 
 - 🤝 I’m looking for help with **expanding my Github project portfolio**
 
-- 💬 Ask me about **anything related to the Microbiome**
+- 💪 I am proud of: passing my **[Data Scientist Professional certification](https://www.datacamp.com/certificate/DS0022536414346)**
 
 - 🦸🏻‍♀️ My biggest data inspirations are **[Hans Rosling](https://twitter.com/Gapminder) for statistics and visualisation, and [Cassie Kozyrkov](https://twitter.com/quaesita) for ML and decision science, both phenomenal communicators**
 
