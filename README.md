@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 I’m interested in **Healthcare and Biosciences**
 
-- 💻 My favorite programming language is **R**
+- 💻 My favorite programming languages are **R** and  **Python**
 
 - 🤝 I’m looking for help with **expanding my Github project portfolio**
 
