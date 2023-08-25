@@ -14,7 +14,7 @@
 
 - 🦸🏻‍♀️ My biggest data inspirations are **[Hans Rosling](https://twitter.com/Gapminder) for statistics and visualisation, and [Cassie Kozyrkov](https://twitter.com/quaesita) for ML and decision science, both phenomenal communicators**
 
-- ⚡ Fun facts 
+- ⚡ A little bit about me:
   - **My cat is called Anova (we call her Nova for short) and she's my world 😻** <br />
   - **I am addicted to buying and growing house plants 🪴** <br />
   - **I am the biggest Taylor Swift fan** 🎤
