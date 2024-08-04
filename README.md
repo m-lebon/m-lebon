@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mel Le Bon</h1>
 
-- 🔭 I’m currently working on **Reinforcement Learning**
+- 🌱 I’m currently learning **Concepts of DevOps and MLOps**
 
-- 🌱 I’m currently learning **Deep Q-learning**
+- 👩🏻‍💻 I’m interested in **AI for Healthcare and BioTech applications**
 
-- 👩🏻‍💻 I’m interested in **Healthcare and Biosciences**
-
-- 💻 My favorite programming languages are **R** and  **Python**
-
-- 🤝 I’m looking for help with **expanding my Github project portfolio**
+- 💻 My favorite programming languages are **Python** and **R**
 
 - 💪 I am proud of: passing my **[Data Scientist Professional certification](https://www.datacamp.com/certificate/DS0022536414346)**
 
