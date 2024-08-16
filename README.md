@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="40" > <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" > <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" height="40" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" > <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="40" > <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="PostgreSQL" height="40" >
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="panda" height="40" > <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numPy" height="40" > <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/tidyverse.svg" alt="Tidyverse" height="45" > <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/dplyr.svg" alt="dplyr" height="45" > <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" > <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/tidymodels.svg" alt="Tidymodels" height="45" > <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="pytorch" height="30" >
 
