@@ -6,7 +6,7 @@
 
 - 💻 My favorite programming languages are **Python** and **R**
 
-- 💪 I am proud of: Competing in the **United Nation's Hackathon** for World Innovation Day 2023 (GPT4Good), finishing in [3rd place](https://www.linkedin.com/feed/update/urn:li:activity:7079123768874283009/)!
+- 💪 I am proud of: Competing in the **United Nation's Hackathon** for World Innovation Day(GPT4Good), finishing in [3rd place](https://www.linkedin.com/feed/update/urn:li:activity:7079123768874283009/)!
 
 - 🦸🏻‍♀️ My biggest data inspirations are **[Hans Rosling](https://twitter.com/Gapminder) for statistics and visualisation, and [Cassie Kozyrkov](https://twitter.com/quaesita) for ML and decision science, both phenomenal communicators**
 
