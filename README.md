@@ -8,7 +8,7 @@
 
 - 💪 I am proud of: Competing in the **United Nation's Hackathon** for World Innovation Day(GPT4Good), finishing in **[3rd place](https://www.linkedin.com/feed/update/urn:li:activity:7079123768874283009/)**!
 
-- 🦸🏻‍♀️ My biggest data inspirations are **[Hans Rosling](https://twitter.com/Gapminder) for statistics and visualisation, and [Cassie Kozyrkov](https://twitter.com/quaesita) for ML and decision science, both phenomenal communicators**
+- 🦸🏻‍♀️ My biggest data inspirations are **[Hans Rosling](https://twitter.com/Gapminder) for statistics and visualisation, and [Cassie Kozyrkov](https://x.com/decisionleader) for ML and decision science, both phenomenal communicators**
 
 - ⚡ A little bit about me:
   - **My cat is called Anova (we call her Nova for short) and she's my world 😻** <br />
