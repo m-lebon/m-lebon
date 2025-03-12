@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I’m interested in **AI for Healthcare and BioTech applications**
 
-- 🌱 I’m currently learning **Concepts of DevOps and MLOps**
+- 🌱 I’m currently learning **Computer Vision and Image Classification**
 
 - 💻 My favorite programming languages are **Python** and **R**
 
