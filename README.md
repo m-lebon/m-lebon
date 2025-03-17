@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I’m interested in **AI for Healthcare and BioTech applications**
 
-- 🌱 I’m currently learning **Computer Vision and Image Classification**
+- 🌱 I’m currently learning **Computer Vision and CNNs in PyTorch**
 
 - 💻 My favorite programming languages are **Python** and **R**
 
