@@ -2,7 +2,7 @@
 
 I'm a Lead Data Scientist working at the intersection of computer vision, machine learning, and animal health.
 
-My background is unusual for a data scientist. I completed a Bioscience degree and a PhD in the gut microbiome then started my career in academia and industry research before transitioning into tech roles. That scientific rigour shapes how I build: models have to be interpretable, reproducible, and honest about uncertainty, especially when the output informs clinical decisions.
+My background is unusual for a data scientist. I completed a Bioscience degree and a PhD in the gut microbiome then started my career in academia and industry research before transitioning into tech roles. That scientific rigour shapes how I approach my work: models have to be interpretable, reproducible, and honest about uncertainty, especially when the output informs clinical decisions.
 
 ---
 
@@ -11,7 +11,7 @@ My background is unusual for a data scientist. I completed a Bioscience degree a
 **Languages:** Python · R · SQL  
 **ML & CV:** PyTorch · Scikit-learn · YOLO · OpenCV  
 **Cloud & Infra:** Azure · Git · MLOps  
-**Data:** Time series · Signal processing · Behavioural analytics
+**Data:** Time series · Signal processing · Behavioural analytics     
 **Apps & APIs:** Flask · Dash
 
 ---
@@ -20,7 +20,7 @@ My background is unusual for a data scientist. I completed a Bioscience degree a
 
 - Building real-time computer vision systems for equine health monitoring at Vet Vision AI
 - Contributing to peer-reviewed veterinary research and publication
-- Previously trained data science practitioners at Multiverse across some of the UK's largest organisations
+- Previously trained data science practitioners at Multiverse - a Times UK top 100 tech company
 - Finished 3rd in the UN World Innovation Day Hackathon (2023)
 - Volunteer Data Ambassador at DataKind UK
 
