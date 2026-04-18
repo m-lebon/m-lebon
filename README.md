@@ -29,5 +29,5 @@ My background is unusual for a data scientist. I completed a Bioscience degree a
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/melanie-le-bon-6143a7a7/) · 
-[Website] (https://m-lebon.github.io/) · 
+[Website](https://m-lebon.github.io/) · 
 [ORCID](https://orcid.org/0000-0002-7958-1754)
